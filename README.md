@@ -16,6 +16,16 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
+References: 
+1. [arXiv Paper](https://arxiv.org/pdf/2505.19249)
+2. [RGC-Bent GitHub Repository](https://github.com/mirsazzathossain/RGC-Bent)
+3. [Radio Galaxy Classifier GitHub Repository](https://github.com/mirsazzathossain/radio-galaxy-classifier)
+4. [ScienceDirect Article](https://www.sciencedirect.com/science/article/pii/S1877050923009638)
+   
+----
+
+
+
 ## Contact
 
 **Adrita Khan**  
