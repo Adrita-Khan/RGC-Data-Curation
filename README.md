@@ -1,32 +1,55 @@
-
 # RGC Data Curation for Radio Galaxy Classifier
 
-**RGC (Radha Gobinda Chandra)** is a Radio AGN Classifier named after Radha Gobinda Chandra (1878–1975), a pioneering Bangladeshi-Indian astronomer and variable star observer from the first half of the twentieth century.
-
-It is a project of the [Center for Astronomy, Space Science and Astrophysics (CASSA)](https://cassa.site/entry/p2023001/).
-
-
-## Overview
-
-This repository documents the data curation process for the RGC project. The quality and structure of the training data are critical for developing an accurate classifier. 
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
-References: 
-1. [arXiv Paper](https://arxiv.org/pdf/2505.19249)
-2. [RGC-Bent GitHub Repository](https://github.com/mirsazzathossain/RGC-Bent)
-3. [Radio Galaxy Classifier GitHub Repository](https://github.com/mirsazzathossain/radio-galaxy-classifier)
-4. [ScienceDirect Article](https://www.sciencedirect.com/science/article/pii/S1877050923009638)
-   
-----
+## About RGC
 
+**RGC (Radha Gobinda Chandra)** is a Radio AGN Classifier named after **Radha Gobinda Chandra** (1878–1975), a pioneering Bangladeshi-Indian astronomer and variable star observer from the first half of the twentieth century.
 
+This project is affiliated with the [Center for Astronomy, Space Science and Astrophysics (CASSA)](https://cassa.site/entry/p2023001/).
+
+## Overview
+
+This repository documents the data curation process for the RGC project. The quality and structure of the training data are critical for developing an accurate radio galaxy classifier.
+
+### Key Objectives
+
+| Objective | Description |
+|-----------|-------------|
+| **Data Quality** | Ensure high-quality, properly labeled training data |
+| **Data Structure** | Organize datasets for efficient model training |
+| **Documentation** | Maintain comprehensive curation methodology |
+
+## Project Resources
+
+### Related Repositories
+
+| Repository | Description | Link |
+|------------|-------------|------|
+| **RGC-Bent** | Bent radio galaxy classification | [GitHub](https://github.com/mirsazzathossain/RGC-Bent) |
+| **Radio Galaxy Classifier** | Main classifier implementation | [GitHub](https://github.com/mirsazzathossain/radio-galaxy-classifier) |
+
+### Publications & References
+
+| # | Type | Title/Source | Link |
+|---|------|--------------|------|
+| 1 | Paper | arXiv Preprint | [arXiv:2505.19249](https://arxiv.org/pdf/2505.19249) |
+| 2 | Article | ScienceDirect Publication | [Link](https://www.sciencedirect.com/science/article/pii/S1877050923009638) |
+
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-**Adrita Khan**  
-[Email](mailto:adrita.khan.official@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adrita-khan) | [Twitter](https://x.com/Adrita_)
+For inquiries, collaboration, or feedback:
+
+| Name | Email | LinkedIn | Twitter |
+|------|-------|----------|---------|
+| **Adrita Khan** | [Email](mailto:adrita.khan.official@gmail.com) | [Profile](https://www.linkedin.com/in/adrita-khan) | [@Adrita_](https://x.com/Adrita_) |
+
+---
+
+*In memory of Radha Gobinda Chandra – pioneering the path for future astronomers*
