@@ -26,10 +26,11 @@ This repository documents the data curation process for the RGC project. The qua
 
 ### Related Repositories
 
-| Repository | Description | Link |
-|------------|-------------|------|
-| **RGC-Bent** | Bent radio galaxy classification | [GitHub](https://github.com/mirsazzathossain/RGC-Bent) |
-| **Radio Galaxy Classifier** | Main classifier implementation | [GitHub](https://github.com/mirsazzathossain/radio-galaxy-classifier) |
+| Repository | Purpose | Status | Link |
+|------------|---------|--------|------|
+| **RGC-Bent** | Classification of bent-tail radio galaxies | Active | [GitHub](https://github.com/mirsazzathossain/RGC-Bent) |
+| **Radio Galaxy Classifier** | Main deep learning classifier implementation | Active | [GitHub](https://github.com/mirsazzathossain/radio-galaxy-classifier) |
+| **RGC-Data-Curation** | Data preparation and quality assurance | Current | This repository |
 
 ### Publications & References
 
