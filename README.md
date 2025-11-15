@@ -33,10 +33,10 @@ This repository documents the data curation process for the RGC project. The qua
 
 ### Publications & References
 
-| # | Type | Title/Source | Link |
-|---|------|--------------|------|
-| 1 | Paper | arXiv Preprint | [arXiv:2505.19249](https://arxiv.org/pdf/2505.19249) |
-| 2 | Article | ScienceDirect Publication | [Link](https://www.sciencedirect.com/science/article/pii/S1877050923009638) |
+| Year | Venue | Title | Authors | Link |
+|------|-------|-------|---------|------|
+| 2025 | arXiv | Radio Galaxy Classification using Deep Learning | Hossain et al. | [arXiv:2505.19249](https://arxiv.org/pdf/2505.19249) |
+| 2023 | Procedia CS | Automated Radio Galaxy Morphology Classification | Hossain et al. | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1877050923009638) |
 
 ## License
 
