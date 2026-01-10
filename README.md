@@ -3,6 +3,9 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=ff8c00&center=true&vCenter=true&repeat=true&width=820&lines=Radio+Galaxy+Classification;Deep+Learning+for+Astronomy;Morphology+Classification;Radio+AGN+Classifier;Bent-Tail+Galaxy+Detection;Data+Curation+%26+Quality+Assurance;Training+Data+Preparation;Astronomical+Image+Processing;Automated+Morphology+Analysis;Convolutional+Neural+Networks;Radio+Survey+Data;High-Quality+Labeled+Datasets;Deep+Learning+Pipelines;Galaxy+Morphology+Features;Multi-Class+Classification;Radio+Continuum+Imaging" alt="Typing SVG" />
+</p>
 
 ## About RGC
 
